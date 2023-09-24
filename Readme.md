@@ -1,4 +1,4 @@
-# SDE Sheet: Striver190
+# SDE Sheet: Striver190 (5 Qs per Day)
 
 Welcome to the Striver190 SDE (Software Development Engineer) sheet repository. This repository contains a curated list of coding interview problems to help you prepare for technical interviews. To get started, follow the guidelines below.
 
@@ -24,3 +24,9 @@ git pull origin master
 ```
 
 
+### Track Your Progress
+
+1.Sign up Striver website
+2.After sign in you can tick the questions you did.
+
+![Track-progress](https://github.com/your_username/guptaverse/Assets/TrackSheet.JPG)
