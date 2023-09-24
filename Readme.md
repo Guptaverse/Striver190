@@ -27,6 +27,7 @@ git pull origin master
 ### Track Your Progress
 
 1.Sign up Striver website
+<br/>
 2.After sign in you can tick the questions you did.
 
-![Track-progress](https://github.com/your_username/guptaverse/Assets/TrackSheet.JPG)
+![Track-progress](./Assets/TrackSheet.JPG)
