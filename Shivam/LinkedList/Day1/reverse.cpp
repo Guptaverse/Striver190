@@ -29,6 +29,7 @@ class Solution {
         ListNode nex = null;
         ListNode prev = null;
 
+        ANothere change
         while(curr!=null){
             nex = curr.next;
             curr.next = prev;
